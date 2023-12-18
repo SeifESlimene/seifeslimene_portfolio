@@ -35,4 +35,4 @@ yarn-error.log*
 README.md.backup
 
 # website images folder (I don't need this, since I'm going to create my own portfolio)
-./website_images/*
+/website_images
