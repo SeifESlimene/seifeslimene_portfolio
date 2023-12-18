@@ -1,7 +1,8 @@
 {
-  "name": "developer-portfolio-starter-code",
-  "version": "0.1.0",
-  "private": true,
+  "name": "my-developer-portfolio",
+  "author": "Seif Eddine Slimene",
+  "homepage": "www.seifeslimene.com",
+  "version": "0.0.1",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
